@@ -26,6 +26,8 @@ My journey into IT began in 2021, when I started studying at the Moscow School o
 
 ### Badges
 
+![Golang sertificate](https://github.com/Qquiqlerr/Qquiqlerr/blob/main/document.png)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Qquiqlerr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Qquiqlerr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
