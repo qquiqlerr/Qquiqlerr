@@ -28,6 +28,9 @@ My journey into IT began in 2021, when I started studying at the Moscow School o
 
 ![Golang sertificate](https://github.com/Qquiqlerr/Qquiqlerr/blob/main/document.png)
 
+Хакатон при Уральском Чемпионате по программированию - 2 место
+Хакатон Let's hack от хакатоны.рус - 1 место
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Qquiqlerr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Qquiqlerr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
