@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a intern Python/C++ developer
 ----------------------------------
 
-My journey into IT began in 2021, when I started studying at the Moscow School of Programmers. At present, I am enrolled at the State University of Aerospace Instrumentation, where I am pursuing a degree in Applied Computer Science. While studying, I have successfully completed several large educational projects, utilizing Python, C++ and C#. Currently, I am also actively learning C++, while working on several personal projects using Python. Additionally, I am exploring algorithms and data structures through my studies.
+My journey into IT began in 2021, when I started studying at the Moscow School of Programmers. At present, I am enrolled at the State University of Aerospace Instrumentation, where I am pursuing a degree in Applied Computer Science. While studying, I have successfully completed several large educational projects, utilizing Python, C++ and Golang. Currently, I am also actively learning Golang, while working on several personal projects using Python. Additionally, I am exploring algorithms and data structures through my studies.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [leha.metlushko@bk.ru](mailto:leha.metlushko@bk.ru)
-* 🧠  I'm learning С++, algorithms and data structures, Python
+* 🧠  I'm learning Go, С++, algorithms and data structures, Python
 * 🤝  I'm open to collaborating on projects related to neural networks, computer vision, or any other good idea.
 * ⚡  It's a secret, but by the age of 25 I want to be a senior. Please don't tell anyone, though.
 
