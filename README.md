@@ -28,8 +28,8 @@ My journey into IT began in 2021, when I started studying at the Moscow School o
 
 ![Golang sertificate](https://github.com/Qquiqlerr/Qquiqlerr/blob/main/document.png)
 
-Хакатон при Уральском Чемпионате по программированию - 2 место
-Хакатон Let's hack от хакатоны.рус - 1 место
+<b>Хакатон при Уральском Чемпионате по программированию</b> - 2 место<br>
+<b>Хакатон Let's hack от хакатоны.рус</b> - 1 место
 
 <b>My GitHub Stats</b>
 
