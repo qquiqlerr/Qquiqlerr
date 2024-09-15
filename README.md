@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexey
 ==============================================================================================================================
 
-I am a intern Python/C++ developer
+I am a intern Go developer
 ----------------------------------
 
 My journey into IT began in 2021, when I started studying at the Moscow School of Programmers. At present, I am enrolled at the State University of Aerospace Instrumentation, where I am pursuing a degree in Applied Computer Science. While studying, I have successfully completed several large educational projects, utilizing Python, C++ and Golang. Currently, I am also actively learning Golang, while working on several personal projects using Python. Additionally, I am exploring algorithms and data structures through my studies.
@@ -30,6 +30,7 @@ My journey into IT began in 2021, when I started studying at the Moscow School o
 
 <b>Хакатон при Уральском Чемпионате по программированию</b> - 2 место<br>
 <b>Хакатон Let's hack от хакатоны.рус</b> - 1 место
+<b>Лидеры Цифровой Трансформации</b> - Финалист
 
 <b>My GitHub Stats</b>
 
